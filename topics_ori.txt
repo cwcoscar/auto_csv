@@ -1,0 +1,8 @@
+/ublox_f9k/esfins ESF_ins
+/ublox_f9k/imu_meas IMU_meas
+/ublox_f9k/esfstatus ESF_status
+/ublox_f9k/fix FIX
+/ublox_f9k/fix_velocity FIX_velocity
+/ublox_f9k/navatt NAV_att
+/ublox_f9k/navposecef NAV_poseecef
+/ublox_f9k/navpvt NAV_pvt

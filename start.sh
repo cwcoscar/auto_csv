@@ -1,0 +1,1 @@
+python auto_csv.py --target /home/meclab/Desktop/Bag/C100-F9K_calibration_data/20230302/tmp/
